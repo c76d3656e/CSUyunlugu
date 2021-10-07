@@ -1,0 +1,3 @@
+C:/Users/mpc35/CLionProjects/lozengePrintf/cmake-build-debug/CMakeFiles/lozengePrintf.dir
+C:/Users/mpc35/CLionProjects/lozengePrintf/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/mpc35/CLionProjects/lozengePrintf/cmake-build-debug/CMakeFiles/rebuild_cache.dir
